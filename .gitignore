@@ -1,0 +1,7 @@
+models/*
+!models/.keep
+src/__pycache__/*
+results/*
+!results/.keep
+data/
+!data/.keep
