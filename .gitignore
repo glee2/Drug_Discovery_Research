@@ -2,6 +2,8 @@ models/*
 !models/.keep
 results/*
 !results/.keep
+resources/*
+!resources/.keep
 data/
 !data/.keep
 .ipynb_checkpoints
